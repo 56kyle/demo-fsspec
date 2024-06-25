@@ -21,6 +21,7 @@ click = ">=8.0.1"
 loguru = "^0.7.2"
 platformdirs = "^4.2.2"
 fsspec = "^2024.6.0"
+adlfs = "^2024.4.1"
 
 [tool.poetry.dev-dependencies]
 Pygments = ">=2.10.0"
